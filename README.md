@@ -1,2 +1,2 @@
 # controlGastos
-JavaScript prectice web page
+JavaScript practice web page
